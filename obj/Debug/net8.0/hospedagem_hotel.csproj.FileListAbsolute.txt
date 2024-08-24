@@ -1,0 +1,14 @@
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\bin\Debug\net8.0\hospedagem_hotel.exe
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\bin\Debug\net8.0\hospedagem_hotel.deps.json
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\bin\Debug\net8.0\hospedagem_hotel.runtimeconfig.json
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\bin\Debug\net8.0\hospedagem_hotel.dll
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\bin\Debug\net8.0\hospedagem_hotel.pdb
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.AssemblyInfoInputs.cache
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.AssemblyInfo.cs
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.csproj.CoreCompileInputs.cache
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.dll
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\refint\hospedagem_hotel.dll
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.pdb
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\hospedagem_hotel.genruntimeconfig.cache
+C:\Users\jufel\OneDrive\Área de Trabalho\DIO\dotnet\EstudosCsharpDio\hospedagem_hotel\obj\Debug\net8.0\ref\hospedagem_hotel.dll
